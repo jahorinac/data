@@ -3,23 +3,23 @@
     {
         "cardStatuses": [
             {
-                "title": "Backlog",
+                "title": "backlog",
                 "color": "status-0"
             },
             {
-                "title": "To Do",
+                "title": "to do",
                 "color": "status-1"
             },
             {
-                "title": "In Progress",
+                "title": "in progress",
                 "color": "status-2"
             },
             {
-                "title": "Review",
+                "title": "review",
                 "color": "status-3"
             },
             {
-                "title": "Done",
+                "title": "done",
                 "color": "status-4"
             }
         ],
@@ -30,7 +30,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "To Do"
+                "status": "to do"
             },
             {
                 "cardId": 2,
@@ -38,7 +38,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "To Do"
+                "status": "to do"
             },
             {
                 "cardId": 3,
@@ -46,7 +46,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "To Do"
+                "status": "to do"
             },
             {
                 "cardId": 4,
@@ -54,7 +54,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "In Progress"
+                "status": "in progress"
             },
             {
                 "cardId": 5,
@@ -62,7 +62,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "In Progress"
+                "status": "in progress"
             },
             {
                 "cardId": 6,
@@ -70,7 +70,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Review"
+                "status": "review"
             },
             {
                 "cardId": 7,
@@ -78,7 +78,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Done"
+                "status": "done"
             },
             {
                 "cardId": 8,
@@ -86,7 +86,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Done"
+                "status": "done"
             },
             {
                 "cardId": 10,
@@ -94,7 +94,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 11,
@@ -102,7 +102,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 12,
@@ -110,7 +110,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 13,
@@ -118,7 +118,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 14,
@@ -126,7 +126,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 15,
@@ -134,7 +134,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 16,
@@ -142,7 +142,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 17,
@@ -150,7 +150,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 18,
@@ -158,7 +158,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 19,
@@ -166,7 +166,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 20,
@@ -174,7 +174,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 21,
@@ -182,7 +182,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 22,
@@ -190,7 +190,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 23,
@@ -198,7 +198,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 24,
@@ -206,7 +206,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 25,
@@ -214,7 +214,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 26,
@@ -222,7 +222,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 27,
@@ -230,7 +230,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 28,
@@ -238,7 +238,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 29,
@@ -246,7 +246,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             },
             {
                 "cardId": 30,
@@ -254,7 +254,7 @@
                 "title":"task desc",
                 "messages": 2,
                 "attachments": 4,
-                "status": "Backlog"
+                "status": "backlog"
             }
         ]
     }
